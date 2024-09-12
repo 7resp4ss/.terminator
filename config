@@ -1,7 +1,7 @@
 [global_config]
 [keybindings]
-  go_up = <Primary>j
-  go_down = <Primary>k
+  go_up = <Primary>k
+  go_down = <Primary>j
   go_left = <Primary>h
   go_right = <Primary>l
 [profiles]
