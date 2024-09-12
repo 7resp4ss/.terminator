@@ -1,5 +1,9 @@
 [global_config]
 [keybindings]
+  go_up = <Primary>j
+  go_down = <Primary>k
+  go_left = <Primary>h
+  go_right = <Primary>l
 [profiles]
   [[default]]
     background_color = "#282828"
