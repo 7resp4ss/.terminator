@@ -1,8 +1,8 @@
 [global_config]
 [keybindings]
   go_up = <Primary>k
-  go_down = <Primary>j
-  go_left = <Primary>h
+  go_down = <Primary>h
+  go_left = <Primary>j
   go_right = <Primary>l
 [profiles]
   [[default]]
